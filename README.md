@@ -4,7 +4,7 @@ This project is a tool for download and process the data from BRITE (BRIght Targ
 
 The scrips is writing in a jupyter notebook using the Python libraries:
 
-PyAstronomy,  
+PyAstronomy, 
 requests, 
 bs4, 
 pandas, 
